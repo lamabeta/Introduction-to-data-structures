@@ -1,22 +1,20 @@
-# Project 02: Data Structure
+# Introduction to Data Structures Project 
 
-### Objectives
-In this project, our main emphasis will be on understanding the fundamentals of data structures, as well as exploring the connections with algorithm.
+### Objective
+In this project, our main goal will be understanding the fundamentals of data structures.
 
 ### Concepts
+The project solution heavily relies on these concepts as they form the core foundation. If any of these concepts are unfamiliar to you, we recommend referring to the provided resources for better understanding
 
 | Concept | Resources |
 | --- | ----------- |
-| What Is A Data Structure | [click here](https://github.com/lamabeta/Introduction-to-data-structures/blob/main/resources/01-what-is-a-data-structure.md) |
-| Data Structure Classification | [click here](https://github.com/lamabeta/Introduction-to-data-structures/blob/main/resources/02-data-structure-classification.md)|
-| Operations On Data Structure| [click here](https://github.com/lamabeta/Introduction-to-data-structures/blob/main/resources/03-operations-on-data-structure.md) |
-| The Relationship Between Data Structures and Algorithms | [click here](https://github.com/lamabeta/Introduction-to-data-structures/blob/main/resources/04-the-relationship-between-data-structures-and-algorithms.md) |
+| What is a Data Structure | [Data Structure Concept](https://github.com/lamabeta/Introduction-to-data-structures/blob/main/resources/01-what-is-a-data-structure.md) |
+| Data Structure Classification | [Data Structure Classification Concept](https://github.com/lamabeta/Introduction-to-data-structures/blob/main/resources/02-data-structure-classification.md)|
+| Operations on Data Structure| [Operations on Data Structure Concept](https://github.com/lamabeta/Introduction-to-data-structures/blob/main/resources/03-operations-on-data-structure.md) |
 
 
 ### Problem
-The effect of the amount of data it on the program’s performance
+Develope a new implementation for a given method by using the concepts of Data Structure.
 
 ### Implementation
-- Create 10 contacts using the Contact class
-- Restore contact information in Main without using the Contact class
-([add your code here](https://github.com/lamabeta/Introduction-to-data-structures/blob/main/src/Main.java))
+Update `method name` method that store and print list of names by using a better approach based on what you learned from data sctructure concepts.
