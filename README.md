@@ -19,4 +19,4 @@ The effect of the amount of data it on the program’s performance
 ### Implementation
 - Create 10 contacts using the Contact class
 - Restore contact information in Main without using the Contact class
-([add your code here](https://github.com/lamabeta/data-structure/blob/main/introduction-to-data-structures/src/Main.java))
+([add your code here](https://github.com/lamabeta/Introduction-to-data-structures/blob/main/src/Main.java))
