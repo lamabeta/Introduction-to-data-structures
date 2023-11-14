@@ -29,7 +29,7 @@ public class StudentsName {
         String sixthStudent = "Fahad";
         String seventhStudent = "Ahmad";
         String eighthStudent = "Dana";
-        String ninthStudent = "  Reem";
+        String ninthStudent = "Reem";
         String tenthStudent = "Dalal";
         
         System.out.println("student name: " + firstStudent);
