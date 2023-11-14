@@ -17,4 +17,31 @@ The project solution heavily relies on these concepts as they form the core foun
 Develope a new implementation for a given method by using the concepts of Data Structure.
 
 ### Implementation
-Update `method name` method that store and print list of names by using a better approach based on what you learned from data sctructure concepts.
+Update the following code that store and print list of names by using a better approach based on what you learned from data sctructure concepts.([add your code here](https://github.com/lamabeta/Introduction-to-data-structures/blob/main/StudentsName.java))
+```java
+public class StudentsName {
+    public static void main(String[] args) {
+        String firstStudent = "Nadaa";
+        String secondStudent = "Lana";
+        String thirdStudent = "Emman";
+        String fourthStudent = "Amal";
+        String fifthStudent = "Manal";
+        String sixthStudent = "Fahad";
+        String seventhStudent = "Ahmad";
+        String eighthStudent = "Dana";
+        String ninthStudent = "  Reem";
+        String tenthStudent = "Dalal";
+        
+        System.out.println("student name: " + firstStudent);
+        System.out.println("student name: " + secondStudent);
+        System.out.println("student name: " + thirdStudent);
+        System.out.println("student name: " + fourthStudent);
+        System.out.println("student name: " + fifthStudent);
+        System.out.println("student name: " + sixthStudent);
+        System.out.println("student name: " + seventhStudent);
+        System.out.println("student name: " + eighthStudent);
+        System.out.println("student name: " + ninthStudent);
+        System.out.println("student name: " + tenthStudent);
+    }
+}
+```
