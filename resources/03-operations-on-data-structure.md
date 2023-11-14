@@ -35,8 +35,8 @@ The most important operations that we can perform on all types of data structure
         newArray[newArray.length - 1] = newElement;
     }
 ```
-- Sorting elements in an array using the sort() function.
-```java
+- Sorting elements in an array is by using the sort() function from  the Arrays class.
+```java 
     public static void main(String[] args) {
         int[] array = {5, 2, 9, 1, 4};
         
