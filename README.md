@@ -4,7 +4,7 @@
 In this project, our main goal will be understanding the fundamentals of data structures.
 
 ### Concepts
-The project solution heavily relies on these concepts as they form the core foundation. If any of these concepts are unfamiliar to you, we recommend referring to the provided resources for better understanding
+The project solution heavily relies on these concepts as they form the core foundation. If any of these concepts are unfamiliar to you, we recommend referring to the provided resources for better understanding.
 
 | Concept | Resources |
 | --- | ----------- |
@@ -17,7 +17,7 @@ The project solution heavily relies on these concepts as they form the core foun
 Develope a new implementation for a given method by using the concepts of Data Structure.
 
 ### Implementation
-Update the following code that store and print list of names by using a better approach based on what you learned from data sctructure concepts.([add your code here](https://github.com/lamabeta/Introduction-to-data-structures/blob/main/StudentsName.java))
+Update the following code that store and print list of names by using a better approach based on what you learned from data sctructure concepts.([add your code here](https://github.com/lamabeta/Introduction-to-data-structures/blob/main/StudentsName.java)).
 ```java
 public class StudentsName {
     public static void main(String[] args) {
